@@ -69,3 +69,17 @@ Examine the data types that are currently associated with each column. If necess
 -Visually estimate the result by plotting the daily minimum temperature of each observation.
 
 -Export the DataFrame to a CSV file.
+
+## Output Files from Analysis
+
+![avg_temp](https://github.com/user-attachments/assets/da979e92-e921-4fde-a103-3590b2b09268)
+
+
+![desc_sort_temp](https://github.com/user-attachments/assets/212d861d-0b2c-4d31-9cc5-208b10eebc20)
+
+
+![avg_pressure](https://github.com/user-attachments/assets/ac96e115-b704-4f91-9696-998b7e82338a)
+
+
+![asc_sort_pressure](https://github.com/user-attachments/assets/dcde5c66-50b5-4232-a542-f07c7feb8b80)
+
